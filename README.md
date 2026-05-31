@@ -28,17 +28,17 @@
 
 ---
 
-<p align="center" style="margin: 20px 0;">
-	<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" style="display: block; margin: 0 auto; border: 2px solid #394a5e; border-radius: 16px;"/>
-</p>
+<table align="center" cellspacing="0" cellpadding="2">
+	<tr>
+		<td>
+			<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" style="display: block"/>
+		</td>
+	</tr>
+</table>
 
 ---
 
 <p align="center">
 	<b>Open to interesting projects in Embedded Systems and AI</b><br/>
 	<sub>Code. Build. Improve.</sub>
-</p>
-
-<p align="center" style="margin: 8px 0 16px 0;">
-	<img src="assets/regexcoreglow.webp" alt="RegexCore glow symbol" width="100" style="display: block; margin: 0 auto;"/>
 </p>
