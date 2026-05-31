@@ -28,7 +28,18 @@
 
 ---
 
+<table align="center" cellspacing="0" cellpadding="3">
+	<tr>
+		<td>
+			<img src="assets/regexcorefly.webp" alt="RegexCore fly visual"/>
+		</td>
+	</tr>
+</table>
+
+---
+
 <p align="center">
 	<b>Open to interesting projects in Embedded Systems and AI</b><br/>
 	<sub>Code. Build. Improve.</sub>
 </p>
+
