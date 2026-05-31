@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="assets/banner.svg" alt="RegexCore profile banner" width="100%" />
+	<img src="assets/banner.svg" alt="RegexCore profile banner"/>
 </p>
 
 # Hi there, I'm Manuel 👋
@@ -28,13 +28,9 @@
 
 ---
 
-<table align="center" cellspacing="0" cellpadding="3">
-	<tr>
-		<td>
-			<img src="assets/regexcorefly.webp" alt="RegexCore fly visual"/>
-		</td>
-	</tr>
-</table>
+<p align="center" style="margin: 20px 0;">
+	<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" style="display: block; margin: 0 auto; border: 1px solid #394a5e; border-radius: 16px;"/>
+</p>
 
 ---
 
@@ -43,3 +39,6 @@
 	<sub>Code. Build. Improve.</sub>
 </p>
 
+<p align="center" style="margin: 8px 0 16px 0;">
+	<img src="assets/regexcoreglow.webp" alt="RegexCore glow symbol" width="250" style="display: block; margin: 0 auto;"/>
+</p>
