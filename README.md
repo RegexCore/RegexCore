@@ -29,7 +29,7 @@
 ---
 
 <p align="center" style="margin: 20px 0;">
-	<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" style="display: block; margin: 0 auto; border: 1px solid #394a5e; border-radius: 16px;"/>
+	<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" style="display: block; margin: 0 auto; border: 2px solid #394a5e; border-radius: 16px;"/>
 </p>
 
 ---
@@ -40,5 +40,5 @@
 </p>
 
 <p align="center" style="margin: 8px 0 16px 0;">
-	<img src="assets/regexcoreglow.webp" alt="RegexCore glow symbol" width="250" style="display: block; margin: 0 auto;"/>
+	<img src="assets/regexcoreglow.webp" alt="RegexCore glow symbol" width="100" style="display: block; margin: 0 auto;"/>
 </p>
