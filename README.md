@@ -17,8 +17,6 @@
 - 🤖 Interested in AI, RAG systems and local LLMs
 - 🎵 Listening to Drum & Bass and Trance music
 
----
-
 ## 🛠️ Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
@@ -30,12 +28,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
 
----
 
 ## ✨ Visual Vibe
 
 <p align="center">
-	<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" width="820"/>
+	<img src="assets/regexcoreglow.webp" alt="RegexCore glow accent" width="72"/>
+</p>
+
+<p align="center">
+	<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" width="88%" style="border: 3px solid #334155; border-radius: 18px;"/>
+</p>
+
+<p align="center">
+	<img src="assets/regexcoreglow.webp" alt="RegexCore glow accent" width="72"/>
+</p>
+
+<p align="center">
+	<sub><b>RegexCore Signature Visual</b></sub><br/>
+	<sub>Bold motion. Clean composition.</sub>
 </p>
 
 ---
@@ -43,8 +53,4 @@
 <p align="center">
 	<b>Open to interesting projects in Embedded Systems and AI</b><br/>
 	<sub>Code. Build. Improve.</sub>
-</p>
-
-<p align="center">
-	<img src="assets/regexcoreglow.webp" alt="RegexCore glow accent" width="78"/>
 </p>
