@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-	<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" width="88%" style="border: 3px solid #334155; border-radius: 18px;"/>
+	<img src="assets/regexcorefly-framed.webp" alt="RegexCore fly visual" width="88%"/>
 </p>
 
 <p align="center">
