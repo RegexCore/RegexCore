@@ -5,6 +5,10 @@
 
 # Hi there, I'm Manuel 👋
 
+<p align="center">
+	<img src="assets/typing-intro.svg" alt="Typing intro" width="86%"/>
+</p>
+
 ## 🚀 About Me
 
 - 💻 Passionate about C, C++, C#, Python and Linux development
@@ -28,13 +32,11 @@
 
 ---
 
-<table align="center" cellspacing="0" cellpadding="2">
-	<tr>
-		<td>
-			<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" style="display: block"/>
-		</td>
-	</tr>
-</table>
+## ✨ Visual Vibe
+
+<p align="center">
+	<img src="assets/regexcorefly.webp" alt="RegexCore fly visual" width="820"/>
+</p>
 
 ---
 
@@ -44,5 +46,5 @@
 </p>
 
 <p align="center">
-	<img src="assets/regexcoreglow.webp" alt="RegexCore profile banner" width="50""/>
+	<img src="assets/regexcoreglow.webp" alt="RegexCore glow accent" width="78"/>
 </p>
