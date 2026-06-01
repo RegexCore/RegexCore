@@ -42,3 +42,7 @@
 	<b>Open to interesting projects in Embedded Systems and AI</b><br/>
 	<sub>Code. Build. Improve.</sub>
 </p>
+
+<p align="center">
+	<img src="assets/regexcoreglow.webp" alt="RegexCore profile banner" width="50""/>
+</p>
