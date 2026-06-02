@@ -19,7 +19,7 @@
     <style>
       .frame { fill: url(#bg); stroke: none; }
       .title { font: 700 18px 'Consolas', 'Fira Code', monospace; fill: #dbe2ea; }
-      .line { font: 600 20px 'Consolas', 'Fira Code', monospace; }
+      .line { font: 600 19px 'Consolas', 'Fira Code', monospace; }
       .user { fill: #8bd8ff; }
       .ai { fill: #e6edf5; }
       .muted { fill: #94a3b8; font: 500 14px 'Consolas', 'Fira Code', monospace; }
@@ -27,14 +27,14 @@
       .cursorAi { fill: #e6edf5; }
     </style>
 
-    <clipPath id="l1"><rect x="30" y="80" width="0" height="28"><animate attributeName="width" values="0;0;430;430;0;0" keyTimes="0;0.05;0.12;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l2"><rect x="30" y="114" width="0" height="28"><animate attributeName="width" values="0;0;860;860;0;0" keyTimes="0;0.14;0.24;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l3"><rect x="30" y="154" width="0" height="28"><animate attributeName="width" values="0;0;360;360;0;0" keyTimes="0;0.26;0.33;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l4"><rect x="30" y="188" width="0" height="28"><animate attributeName="width" values="0;0;590;590;0;0" keyTimes="0;0.35;0.43;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l5"><rect x="30" y="228" width="0" height="28"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.45;0.53;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l6"><rect x="30" y="262" width="0" height="28"><animate attributeName="width" values="0;0;760;760;0;0" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l7"><rect x="30" y="302" width="0" height="28"><animate attributeName="width" values="0;0;390;390;0;0" keyTimes="0;0.66;0.73;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l8"><rect x="30" y="332" width="0" height="28"><animate attributeName="width" values="0;0;340;340;0;0" keyTimes="0;0.75;0.81;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l1"><rect x="30" y="80" width="0" height="28"><animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0;0.05;0.12;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l2"><rect x="30" y="114" width="0" height="28"><animate attributeName="width" values="0;0;900;900;0;0" keyTimes="0;0.14;0.24;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l3"><rect x="30" y="154" width="0" height="28"><animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0;0.26;0.33;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l4"><rect x="30" y="188" width="0" height="28"><animate attributeName="width" values="0;0;760;760;0;0" keyTimes="0;0.35;0.43;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l5"><rect x="30" y="228" width="0" height="28"><animate attributeName="width" values="0;0;650;650;0;0" keyTimes="0;0.45;0.53;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l6"><rect x="30" y="262" width="0" height="28"><animate attributeName="width" values="0;0;840;840;0;0" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l7"><rect x="30" y="302" width="0" height="28"><animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0;0.66;0.73;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l8"><rect x="30" y="332" width="0" height="28"><animate attributeName="width" values="0;0;430;430;0;0" keyTimes="0;0.75;0.81;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect x="1" y="1" width="978" height="388" rx="16" class="frame"/>
@@ -57,35 +57,35 @@
   <text x="30" y="350" class="line ai" clip-path="url(#l8)">AI   &gt; Code. Build. Improve.</text>
 
   <rect x="30" y="81" width="9" height="24" class="cursorUser">
-    <animate attributeName="x" values="30;30;451;451;30;30" keyTimes="0;0.05;0.12;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;521;521;30;30" keyTimes="0;0.05;0.12;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.05;0.12;0.121;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="115" width="9" height="24" class="cursorAi">
-    <animate attributeName="x" values="30;30;881;881;30;30" keyTimes="0;0.14;0.24;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;921;921;30;30" keyTimes="0;0.14;0.24;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.14;0.24;0.241;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="155" width="9" height="24" class="cursorUser">
-    <animate attributeName="x" values="30;30;381;381;30;30" keyTimes="0;0.26;0.33;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;521;521;30;30" keyTimes="0;0.26;0.33;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.26;0.33;0.331;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="189" width="9" height="24" class="cursorAi">
-    <animate attributeName="x" values="30;30;611;611;30;30" keyTimes="0;0.35;0.43;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;781;781;30;30" keyTimes="0;0.35;0.43;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.35;0.43;0.431;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="229" width="9" height="24" class="cursorUser">
-    <animate attributeName="x" values="30;30;551;551;30;30" keyTimes="0;0.45;0.53;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;671;671;30;30" keyTimes="0;0.45;0.53;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.45;0.53;0.531;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="263" width="9" height="24" class="cursorAi">
-    <animate attributeName="x" values="30;30;781;781;30;30" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;861;861;30;30" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.55;0.64;0.641;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="303" width="9" height="24" class="cursorUser">
-    <animate attributeName="x" values="30;30;411;411;30;30" keyTimes="0;0.66;0.73;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;521;521;30;30" keyTimes="0;0.66;0.73;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.66;0.73;0.731;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="333" width="9" height="24" class="cursorAi">
-    <animate attributeName="x" values="30;30;361;361;30;30" keyTimes="0;0.75;0.81;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;451;451;30;30" keyTimes="0;0.75;0.81;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.75;0.81;0.811;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
 </svg>
