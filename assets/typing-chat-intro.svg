@@ -32,7 +32,7 @@
     <clipPath id="l3"><rect x="30" y="154" width="0" height="28"><animate attributeName="width" values="0;0;360;360;0;0" keyTimes="0;0.26;0.33;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="l4"><rect x="30" y="188" width="0" height="28"><animate attributeName="width" values="0;0;590;590;0;0" keyTimes="0;0.35;0.43;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="l5"><rect x="30" y="228" width="0" height="28"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.45;0.53;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l6"><rect x="30" y="262" width="0" height="28"><animate attributeName="width" values="0;0;690;690;0;0" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l6"><rect x="30" y="262" width="0" height="28"><animate attributeName="width" values="0;0;760;760;0;0" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="l7"><rect x="30" y="302" width="0" height="28"><animate attributeName="width" values="0;0;390;390;0;0" keyTimes="0;0.66;0.73;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="l8"><rect x="30" y="332" width="0" height="28"><animate attributeName="width" values="0;0;340;340;0;0" keyTimes="0;0.75;0.81;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
@@ -77,7 +77,7 @@
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.45;0.53;0.531;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="263" width="9" height="24" class="cursorAi">
-    <animate attributeName="x" values="30;30;711;711;30;30" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="30;30;781;781;30;30" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.55;0.64;0.641;0.90;1" dur="24s" repeatCount="indefinite"/>
   </rect>
   <rect x="30" y="303" width="9" height="24" class="cursorUser">
