@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
 
-## 🚀 AI Chat Intro
+## 🤖 AI Chat Intro
 
 <p align="center">
 	<img src="assets/typing-chat-intro.svg" alt="Typing intro AI chat simulation" width="86%"/>
