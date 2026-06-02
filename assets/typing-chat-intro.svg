@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="390" viewBox="0 0 980 390" role="img" aria-labelledby="title desc">
+  <title id="title">Typing Chat Intro</title>
+  <desc id="desc">Animated chat panel where each line is typed sequentially, then cleared and restarted.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#12161d"/>
+      <stop offset="55%" stop-color="#181e28"/>
+      <stop offset="100%" stop-color="#1d2430"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0.5" r="1">
+      <stop offset="0%" stop-color="#e2e8f0" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#e2e8f0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="1" cy="0.5" r="1">
+      <stop offset="0%" stop-color="#cbd5e1" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#cbd5e1" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .frame { fill: url(#bg); stroke: none; }
+      .title { font: 700 18px 'Consolas', 'Fira Code', monospace; fill: #dbe2ea; }
+      .line { font: 600 20px 'Consolas', 'Fira Code', monospace; }
+      .user { fill: #8bd8ff; }
+      .ai { fill: #e6edf5; }
+      .muted { fill: #94a3b8; font: 500 14px 'Consolas', 'Fira Code', monospace; }
+      .cursorUser { fill: #8bd8ff; }
+      .cursorAi { fill: #e6edf5; }
+    </style>
+
+    <clipPath id="l1"><rect x="30" y="80" width="0" height="28"><animate attributeName="width" values="0;0;430;430;0;0" keyTimes="0;0.05;0.12;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l2"><rect x="30" y="114" width="0" height="28"><animate attributeName="width" values="0;0;860;860;0;0" keyTimes="0;0.14;0.24;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l3"><rect x="30" y="154" width="0" height="28"><animate attributeName="width" values="0;0;360;360;0;0" keyTimes="0;0.26;0.33;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l4"><rect x="30" y="188" width="0" height="28"><animate attributeName="width" values="0;0;590;590;0;0" keyTimes="0;0.35;0.43;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l5"><rect x="30" y="228" width="0" height="28"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.45;0.53;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l6"><rect x="30" y="262" width="0" height="28"><animate attributeName="width" values="0;0;690;690;0;0" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l7"><rect x="30" y="302" width="0" height="28"><animate attributeName="width" values="0;0;390;390;0;0" keyTimes="0;0.66;0.73;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l8"><rect x="30" y="332" width="0" height="28"><animate attributeName="width" values="0;0;340;340;0;0" keyTimes="0;0.75;0.81;0.84;0.90;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="978" height="388" rx="16" class="frame"/>
+  <rect x="1" y="1" width="978" height="388" rx="15" fill="url(#glowLeft)"/>
+  <rect x="1" y="1" width="978" height="388" rx="15" fill="url(#glowRight)"/>
+
+  <text x="30" y="38" class="title">SIMULATED AI CHAT</text>
+  <text x="30" y="58" class="muted">Conversation preview</text>
+
+  <text x="30" y="98" class="line user" clip-path="url(#l1)">User &gt; Hi AI, what are you working on?</text>
+  <text x="30" y="132" class="line ai" clip-path="url(#l2)">AI   &gt; Building robust embedded systems and practical AI workflows.</text>
+
+  <text x="30" y="172" class="line user" clip-path="url(#l3)">User &gt; What defines your style?</text>
+  <text x="30" y="206" class="line ai" clip-path="url(#l4)">AI   &gt; Precision, performance, and clean architecture.</text>
+
+  <text x="30" y="246" class="line user" clip-path="url(#l5)">User &gt; What is your engineering mindset?</text>
+  <text x="30" y="280" class="line ai" clip-path="url(#l6)">AI   &gt; Keep it simple, measure first, then optimize with intent.</text>
+
+  <text x="30" y="320" class="line user" clip-path="url(#l7)">User &gt; Short mission statement?</text>
+  <text x="30" y="350" class="line ai" clip-path="url(#l8)">AI   &gt; Code. Build. Improve.</text>
+
+  <rect x="30" y="81" width="9" height="24" class="cursorUser">
+    <animate attributeName="x" values="30;30;451;451;30;30" keyTimes="0;0.05;0.12;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.05;0.12;0.121;0.90;1" dur="24s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="30" y="115" width="9" height="24" class="cursorAi">
+    <animate attributeName="x" values="30;30;881;881;30;30" keyTimes="0;0.14;0.24;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.14;0.24;0.241;0.90;1" dur="24s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="30" y="155" width="9" height="24" class="cursorUser">
+    <animate attributeName="x" values="30;30;381;381;30;30" keyTimes="0;0.26;0.33;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.26;0.33;0.331;0.90;1" dur="24s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="30" y="189" width="9" height="24" class="cursorAi">
+    <animate attributeName="x" values="30;30;611;611;30;30" keyTimes="0;0.35;0.43;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.35;0.43;0.431;0.90;1" dur="24s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="30" y="229" width="9" height="24" class="cursorUser">
+    <animate attributeName="x" values="30;30;551;551;30;30" keyTimes="0;0.45;0.53;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.45;0.53;0.531;0.90;1" dur="24s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="30" y="263" width="9" height="24" class="cursorAi">
+    <animate attributeName="x" values="30;30;711;711;30;30" keyTimes="0;0.55;0.64;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.55;0.64;0.641;0.90;1" dur="24s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="30" y="303" width="9" height="24" class="cursorUser">
+    <animate attributeName="x" values="30;30;411;411;30;30" keyTimes="0;0.66;0.73;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.66;0.73;0.731;0.90;1" dur="24s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="30" y="333" width="9" height="24" class="cursorAi">
+    <animate attributeName="x" values="30;30;361;361;30;30" keyTimes="0;0.75;0.81;0.84;0.90;1" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.75;0.81;0.811;0.90;1" dur="24s" repeatCount="indefinite"/>
+  </rect>
+</svg>

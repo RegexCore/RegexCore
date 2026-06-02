@@ -28,12 +28,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
 
-
-## ✨ Visual Vibe
+## 🚀 AI Chat Intro
 
 <p align="center">
-	<img src="assets/regexcoreglow.webp" alt="RegexCore glow accent" width="72"/>
+	<img src="assets/typing-chat-intro.svg" alt="Typing intro AI chat simulation" width="86%"/>
 </p>
+
+## ✨ Visual Vibe
 
 <p align="center">
 	<img src="assets/regexcorefly-framed.webp" alt="RegexCore fly visual" width="88%"/>
