@@ -44,7 +44,7 @@
 ## ✨ Visual Vibe
 
 <p align="center">
-	<img src="assets/regexcorefly-framed.webp" alt="RegexCore fly visual" width="88%"/>
+	<img src="assets/regexcorefly-neon-animiert.webp" alt="RegexCore fly visual" width="88%"/>
 </p>
 
 <p align="center">
