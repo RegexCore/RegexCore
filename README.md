@@ -48,10 +48,6 @@
 </p>
 
 <p align="center">
-	<img src="assets/regexcoreglow.webp" alt="RegexCore glow accent" width="72"/>
-</p>
-
-<p align="center">
 	<sub><b>RegexCore Signature Visual</b></sub><br/>
 	<sub>Bold motion. Clean composition.</sub>
 </p>
